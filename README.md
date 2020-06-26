@@ -7,30 +7,30 @@ The human brain is composed of 86 billion nerve cells called neurons. They are c
 
 Originally, ANNs were used to solve problems the same way a human brain would. But over time, attention shifted and they were used to perform specific tasks. Artificial Neural Networks are being used to perform various tasks such as: computer vision, speech recognition, machine translation, social network filtering, playing board and video games, medical diagnosis, and even in activities that have traditionally been considered as reserved to humans, like painting.
 
-Any Artificial Neural Network, irrespective of the style and logic of implementation, has a few basic characteristics:
-   • An Artificial Neural Network consists of large number of  “neuron” like processing elements.
-   • All these processing elements have a large number of weighted connections between them.
-   • The connections between the elements provide a distributed representation of data.
+Any Artificial Neural Network, irrespective of the style and logic of implementation, has a few basic characteristics:\
+   • An Artificial Neural Network consists of large number of  “neuron” like processing elements.\
+   • All these processing elements have a large number of weighted connections between them.\
+   • The connections between the elements provide a distributed representation of data.\
    • A Learning Process is implemented to acquire knowledge.
   
-ANNs have a number of advantages, some of which are listed below:
-    • ANN’s have the ability to learn and model non-linear and complex relationships.
-    • It does not impose any restrictions on the input variables.
+ANNs have a number of advantages, some of which are listed below:\
+    • ANN’s have the ability to learn and model non-linear and complex relationships.\
+    • It does not impose any restrictions on the input variables.\
     • It is very good at handling highly volatile data which makes it a very useful tool in financial time series forecasting.
     
-ANNs are powerful models that have a wide range of far-reaching applications across many different fields in medicine, security, banking/finance as well as government, agriculture and defense, all owing to its design model. Some applications are as follows:
-    • Aerospace − Autopilot aircrafts, aircraft fault detection.
-    • Automotive - Automobile guidance systems.
-    • Military - Weapon orientation and steering, target tracking, object discrimination.
-    • Electronics - Code sequence prediction, machine vision, voice synthesis.
-    • Financial - Real estate appraisal, loan advisor, mortgage screening.
-    • Industrial - Manufacturing process control, product design and analysis, quality inspection systems.
-    • Medical - EEG and ECG analysis, prosthetic design.
-    • Speech - Speech recognition, speech classification, text to speech conversion.
-    • Telecommunications - Image and data compression, automated information services, real-time spoken language translation.
-    • Transportation - Truck Brake system diagnosis, vehicle scheduling, routing systems.
-    • Software - Pattern Recognition in facial recognition, optical character recognition.
-    • Time Series Prediction - ANNs are used to make predictions on stocks and natural calamities.
-    • Signal Processing - Neural networks can be trained to process an audio signal and filter it appropriately in the hearing aids.
-    • Control - ANNs are often used to make steering decisions of physical vehicles.
+ANNs are powerful models that have a wide range of far-reaching applications across many different fields in medicine, security, banking/finance as well as government, agriculture and defense, all owing to its design model. Some applications are as follows:\
+    • Aerospace − Autopilot aircrafts, aircraft fault detection.\
+    • Automotive - Automobile guidance systems.\
+    • Military - Weapon orientation and steering, target tracking, object discrimination.\
+    • Electronics - Code sequence prediction, machine vision, voice synthesis.\
+    • Financial - Real estate appraisal, loan advisor, mortgage screening.\
+    • Industrial - Manufacturing process control, product design and analysis, quality inspection systems.\
+    • Medical - EEG and ECG analysis, prosthetic design.\
+    • Speech - Speech recognition, speech classification, text to speech conversion.\
+    • Telecommunications - Image and data compression, automated information services, real-time spoken language translation.\
+    • Transportation - Truck Brake system diagnosis, vehicle scheduling, routing systems.\
+    • Software - Pattern Recognition in facial recognition, optical character recognition.\
+    • Time Series Prediction - ANNs are used to make predictions on stocks and natural calamities.\
+    • Signal Processing - Neural networks can be trained to process an audio signal and filter it appropriately in the hearing aids.\
+    • Control - ANNs are often used to make steering decisions of physical vehicles.\
     • Anomaly Detection - As ANNs are expert at recognizing patterns, they can also be trained to generate an output when something unusual occurs that misfits the pattern.
