@@ -24,10 +24,10 @@ Originally, ANNs were used to solve problems the same way a human brain would. B
       • Forecasting.
 
 ## About The Project
-## Aim:
+### Aim:
 The main aim of this project is to help deploy a Python module that can be downloaded by users via pip, to create neural networks.
 
-## Working:
+### Working:
 Firstly, we feed some input data to the neural network.\
 The data flows from layer to layer, until we get an output.\
 After getting the output, we check for errors.\
