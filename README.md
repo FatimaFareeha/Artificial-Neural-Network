@@ -27,7 +27,7 @@ Originally, ANNs were used to solve problems the same way a human brain would. B
 ### Aim:
 The main aim of this project is to help deploy a Python module that can be downloaded by users via pip, to create neural networks.
 
-### Working:
+### How Does This Work?
 Firstly, we feed some input data to the neural network.\
 The data flows from layer to layer, until we get an output.\
 After getting the output, we check for errors.\
@@ -37,4 +37,8 @@ Finally, we repeat the process.
 Two of the most important things in neural networking are: forward propagation and back propagation.\
 We know that, the output of one layer acts as input for the next. This flow of data from one layer to another is called Forward Propagation.\
 Backward Propagation, on the other hand, is the process in which the error is corrected in every iteration or epoch. This is possible when we find out the gradient at whcih error needs to be corrected.\
-Now, Gradient Descent is an algorithm that operates iteratively to find the optimal values for its parameters. It takes into account, user-defined learning rate, and initial parameter values.
+Now, Gradient Descent is an algorithm that operates iteratively to find the optimal values for its parameters. It takes into account, user-defined learning rate, and initial parameter values.\
+To add a non-linear element to this very liner calculation process, an Activation Function is used.
+Neural Network is an iterating algorithm. It is a whole cycle of reading data, learning from errors, updating the value until it reaches the desired value. When it comes to Artificial Intelligence, the longer a model is trained, the better.\
+
+This projects helps serve this very purpose. It helps users download a Python Module (using pip), to create neural networks. It makes the user's job easy, while providing precision and accuracy.
