@@ -9,8 +9,8 @@ Any Artificial Neural Network, irrespective of the style and logic of implementa
      • A Learning Process is implemented to acquire knowledge.
 
 ### Advantages:
-• ANN’s have the ability to learn and model non-linear and complex relationships.
-• It does not impose any restrictions on the input variables.
+• ANN’s have the ability to learn and model non-linear and complex relationships.\
+• It does not impose any restrictions on the input variables.\
 • It is very good at handling highly volatile data which makes it a very useful tool in financial time series forecasting.
     
 ### Applications:
