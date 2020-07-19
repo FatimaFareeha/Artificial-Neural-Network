@@ -2,6 +2,7 @@
 ## What is ANN?
 An Artificial Neural Network or ANN is an information processing paradigm that is inspired by the way the biological nervous system, such as the brain, processes information. It is composed of large number of highly interconnected processing elements (neurons) working in unison to solve a specific problem.
 The human brain is composed of 86 billion nerve cells called neurons. They are connected to other thousand cells by Axons. Stimuli from external environment or inputs from sensory organs are accepted by dendrites. These inputs create electric impulses, which quickly travel through the neural network. A neuron can then send the message to other neuron to handle the issue or does not send it forward. Similarly, taking inspiration from the biological precursor, ANNs are composed of multiple nodes, which imitate biological neurons of the human brain. The neurons are connected by links and they interact with each other. The nodes can take input data and perform simple operations on the data. The result of these operations is passed to other neurons. The output at each node is called its activation or node value.
+
 Any Artificial Neural Network, irrespective of the style and logic of implementation, has a few basic characteristics:\
      • An Artificial Neural Network consists of large number of  “neuron” like processing elements.\
      • All these processing elements have a large number of weighted connections between them.\
