@@ -36,9 +36,21 @@ Finally, we repeat the process.
 
 Two of the most important things in neural networking are: forward propagation and back propagation.\
 We know that, the output of one layer acts as input for the next. This flow of data from one layer to another is called Forward Propagation.\
-Backward Propagation, on the other hand, is the process in which the error is corrected in every iteration or epoch. This is possible when we find out the gradient at whcih error needs to be corrected.\
-Now, Gradient Descent is an algorithm that operates iteratively to find the optimal values for its parameters. It takes into account, user-defined learning rate, and initial parameter values.\
-To add a non-linear element to this very liner calculation process, an Activation Function is used.
-Neural Network is an iterating algorithm. It is a whole cycle of reading data, learning from errors, updating the value until it reaches the desired value. When it comes to Artificial Intelligence, the longer a model is trained, the better.\
+Backward Propagation, on the other hand, is the process in which the error is corrected in every iteration or epoch. This is possible when we find out the gradient at whcih error needs to be corrected.
 
-This projects helps serve this very purpose. It helps users download a Python Module (using pip), to create neural networks. It makes the user's job easy, while providing precision and accuracy.
+Now, Gradient Descent is an algorithm that operates iteratively to find the optimal values for its parameters. It takes into account, user-defined learning rate, and initial parameter values.
+
+![LEARNING RATE](https://user-images.githubusercontent.com/66374573/87868501-eb2ac880-c9b3-11ea-8a66-69ed27f746e1.png)
+
+To add a non-linear element to this very liner calculation process, an Activation Function is used.
+
+![ACTFUNC](https://user-images.githubusercontent.com/66374573/87868480-94bd8a00-c9b3-11ea-89cb-e4ae8ae18eed.png)
+
+![ACTFUNCC](https://user-images.githubusercontent.com/66374573/87868601-47dab300-c9b5-11ea-945d-efb2794c1c5b.png)
+
+Neural Network is an iterating algorithm (For example, in this project, epoch = 8000 i.e there are 8000 iterations). It is a whole cycle of reading data, learning from errors, updating the value until it reaches the desired value. When it comes to Artificial Intelligence, the longer a model is trained, the better we can yeild accurate results.
+
+This projects helps serve this very purpose. It helps users download a Python Module (using pip), to create neural networks. It makes the user's job easy, while providing great precision and accuracy.
+
+### Contribution Guidelines:
+All sorts of contributions are welcome: bug reports, code submissions or pull requests, etc.
